@@ -64,7 +64,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 ```
 
 ## Acknowledgements
-- Information for your projects
+- I have developed this project by using Django Framework. 
 
 ## Contact
 
