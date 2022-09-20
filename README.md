@@ -68,6 +68,6 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- GitHub [@pathfinder3446](https://{github.com/pathfinder3446})
+- GitHub [@pathfinder3446](https://github.com/pathfinder3446)
 - Linkedin [@arif-kilinc](https://{linkedin.com/in/arif-kilinc/})
 
