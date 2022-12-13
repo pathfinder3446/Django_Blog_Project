@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">ToDo App</h1>
+<!-- <h1 align="center">ToDo App</h1>
 
 
 <div align="center">
@@ -14,7 +14,7 @@
     </a>
  
   </h3>
-</div>
+</div> -->
 
 <!-- TABLE OF CONTENTS -->
 
